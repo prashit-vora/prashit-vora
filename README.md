@@ -43,7 +43,4 @@ Contributed to the real-time operating system formerly known as Microsoft Azure 
 
 - **Security research:** Reported **4 approved vulnerabilities** through the Wispr Flow bug bounty program, earning **$1,000**.
 - **Codeforces:** **1519 peak rating (Specialist)**.
-
-## Away from the terminal
-
-**100% completion / Platinum** in Sekiro, Black Myth: Wukong, and Elden Ring.
+- **100% completion / Platinum:** Sekiro, Black Myth: Wukong, and Elden Ring.
