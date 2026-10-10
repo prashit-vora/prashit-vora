@@ -6,7 +6,7 @@ I'm a [research intern working on adversarial robustness and neural network cert
 
 I work with C, C++, Python, and Go, with interests in deep learning, reinforcement learning, and AI security. I contribute fixes to open-source systems—from memory leaks in an RTOS to storage and API security.
 
-## Selected contributions
+## Open Source Contributions
 
 ### Eclipse ThreadX
 
