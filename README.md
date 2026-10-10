@@ -30,11 +30,6 @@ Contributed to the real-time operating system formerly known as Microsoft Azure 
 - **Hardened local-storage path handling** by validating list prefixes before filesystem access. Added regression coverage for traversal, absolute paths, null bytes, and related containment cases; the containment suite passed **87 tests**. [Merged fix ↗](https://github.com/geolens-io/geolens/pull/1307)
 - **Prevented internal error details from leaking** through the dataset-deletion API. Unexpected failures return a generic server error while full details remain in server logs, with regression coverage for that behavior. [Merged fix ↗](https://github.com/geolens-io/geolens/pull/1358)
 
-## Achievements
-
-- **Security research:** Reported **4 approved vulnerabilities** through the Wispr Flow bug bounty program, earning **$1,000**.
-- **Codeforces:** **1519 peak rating (Specialist)**.
-
 ## Tech Stack
 
 | Category | Technologies |
@@ -43,6 +38,11 @@ Contributed to the real-time operating system formerly known as Microsoft Azure 
 | **ML & Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-16803C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-16803C?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-16803C?style=flat-square&logo=pandas&logoColor=white) |
 | **Databases** | ![SQLite](https://img.shields.io/badge/SQLite-B45309?style=flat-square&logo=sqlite&logoColor=white) |
 | **Tools & Environment** | ![Git](https://img.shields.io/badge/Git-0E7490?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0E7490?style=flat-square&logo=linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-0E7490?style=flat-square&logo=neovim&logoColor=white) ![tmux](https://img.shields.io/badge/tmux-0E7490?style=flat-square&logo=tmux&logoColor=white) |
+
+## Achievements
+
+- **Security research:** Reported **4 approved vulnerabilities** through the Wispr Flow bug bounty program, earning **$1,000**.
+- **Codeforces:** **1519 peak rating (Specialist)**.
 
 ## Away from the terminal
 
