@@ -2,7 +2,7 @@
 
 **Systems programming · Machine learning · Security**
 
-I'm a [research intern working on adversarial robustness and neural network certification with DeepPoly](https://github.com/jeetrex17/deeppoly).
+I'm a [research intern](https://github.com/jeetrex17/deeppoly) working on adversarial robustness and neural network certification with DeepPoly.
 
 I work with C, C++, Python, and Go, with interests in deep learning, reinforcement learning, and AI security. I contribute fixes to open-source systems—from memory leaks in an RTOS to storage and API security.
 
