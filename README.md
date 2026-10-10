@@ -1,4 +1,4 @@
-# Hi, I'm Prashit.
+<img src="assets/intro.gif" alt="Hi, I'm Prashit. Systems programming, deep learning, reinforcement learning, and AI security." width="1000" />
 
 **Systems programming · Machine learning · Security**
 
