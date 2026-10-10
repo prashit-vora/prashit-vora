@@ -35,12 +35,14 @@ Contributed to the real-time operating system formerly known as Microsoft Azure 
 - **Security research:** Reported **4 approved vulnerabilities** through the Wispr Flow bug bounty program, earning **$1,000**.
 - **Codeforces:** **1519 peak rating (Specialist)**.
 
-## Toolkit
+## Tech Stack
 
-**Languages** — C · C++ · Python · Go · Java · SQL  
-**ML & libraries** — PyTorch · NumPy · Pandas  
-**Database** — SQLite  
-**Tools & environment** — Git · Linux · Neovim · tmux
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-2563EB?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-2563EB?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-2563EB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-2563EB?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-2563EB?style=flat-square) |
+| **ML & Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-16803C?style=flat-square&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-16803C?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-16803C?style=flat-square&logo=pandas&logoColor=white) |
+| **Databases** | ![SQLite](https://img.shields.io/badge/SQLite-B45309?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools & Environment** | ![Git](https://img.shields.io/badge/Git-0E7490?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0E7490?style=flat-square&logo=linux&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-0E7490?style=flat-square&logo=neovim&logoColor=white) ![tmux](https://img.shields.io/badge/tmux-0E7490?style=flat-square&logo=tmux&logoColor=white) |
 
 ## Away from the terminal
 
