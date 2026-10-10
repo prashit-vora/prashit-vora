@@ -6,6 +6,8 @@ I'm a [research intern](https://github.com/jeetrex17/deeppoly) working on advers
 
 I work with C, C++, Python, and Go, with interests in deep learning, reinforcement learning, and AI security. I contribute fixes to open-source systems—from memory leaks in an RTOS to storage and API security.
 
+[X](https://x.com/__tardigrade) · [LinkedIn](https://www.linkedin.com/in/prashit-vora/)
+
 ## Open Source Contributions
 
 ### Eclipse ThreadX
