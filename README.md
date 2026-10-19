@@ -50,4 +50,4 @@ Contributed to the real-time operating system formerly known as Microsoft Azure 
 - **100% completion / Platinum:** Sekiro, Black Myth: Wukong, and Elden Ring.
 
 
-ps: if you are a recruiter, here's my [resume]([https://drive.google.com/file/d/1D8U9WRmH4nhM8IFKk2Je6DwdStB1EkVq/view?usp=sharing](https://drive.google.com/file/d/1z91MAiujh4QKRANQJncjk-jDc3vAIEyp/view?usp=sharing)) 
+ps: if you are a recruiter, here's my [resume](https://drive.google.com/file/d/1z91MAiujh4QKRANQJncjk-jDc3vAIEyp/view?usp=sharing)
